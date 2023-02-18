@@ -1,0 +1,35 @@
+[33mcommit 3f57f0191e960548d175039d88de3f93c9701088[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: baldevsinh <baldevparmar845@gmail.com>
+Date:   Sat Feb 18 09:40:07 2023 +0530
+
+    Version changes to 3 and new line added
+
+[33mcommit 7f3b3a2b3d4ab90eb9df1907da42544be29785e6[m
+Author: baldev-sinh <114383489+baldev-sinh@users.noreply.github.com>
+Date:   Fri Feb 17 23:34:12 2023 +0530
+
+    Two lines are updated in index.txt file
+
+[33mcommit b87741ade87975f4e90fd58e8e29aaa95f58a1e2[m
+Author: baldev-sinh <114383489+baldev-sinh@users.noreply.github.com>
+Date:   Fri Feb 17 23:32:57 2023 +0530
+
+    Update index.txt
+
+[33mcommit 75f9b8569674df6124ca85f5d065da77bbfc5683[m
+Author: baldevsinh <baldevparmar845@gmail.com>
+Date:   Fri Feb 17 23:29:48 2023 +0530
+
+    Software version is changed to 2
+
+[33mcommit 9f410af63df3d265e499cdc17d11da655742038f[m
+Author: baldevsinh <baldevparmar845@gmail.com>
+Date:   Fri Feb 17 22:40:25 2023 +0530
+
+    Changes utility functions for version 2
+
+[33mcommit fbf8bdab8ff794b518c51068fff4216396fa10d6[m
+Author: baldev-sinh <baldevparmar845@gmail.com>
+Date:   Fri Feb 17 22:33:20 2023 +0530
+
+    Version1
